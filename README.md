@@ -27,7 +27,7 @@ The project follows the standard MVC (Model-View-Controller) view structure:
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/YOUR-USERNAME/ejs-template-fundamentals.git](https://github.com/YOUR-USERNAME/ejs-template-fundamentals.git)
+    git clone [https://github.com/m2rtyaman/ejs-template-fundamentals.git](https://github.com/m2rtyaman/ejs-template-fundamentals.git)
     ```
 
 2.  Install dependencies (Express & EJS):
